@@ -1,2 +1,0 @@
-com/webroot/library/BuildConfig.java
- com.webroot.library.BuildConfig

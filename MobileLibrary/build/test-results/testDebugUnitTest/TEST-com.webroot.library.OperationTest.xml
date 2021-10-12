@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.webroot.library.OperationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-12T08:15:39" hostname="MEHTASPF2MXTLE" time="0.005">
-  <properties/>
-  <testcase name="testOperation" classname="com.webroot.library.OperationTest" time="0.005"/>
-  <system-out><![CDATA[This is Android
-3
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
