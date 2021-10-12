@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\mehtas\\IdeaProjects\\MobileLibrary\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\mehtas\\.gradle\\caches\\transforms-3\\43bf3ad77cd86652f8402a532105fa96\\transformed\\material-1.2.1\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehtas\\IdeaProjects\\MobileLibrary\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\mehtas\\.gradle\\caches\\transforms-3\\43bf3ad77cd86652f8402a532105fa96\\transformed\\material-1.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]
